@@ -1,0 +1,9 @@
+{
+  "name": "js-test",
+  "version": "1.0.0",
+  "description": "Test JS project",
+  "main": "index.js",
+  "repository": "https://github.com/cwt-test/js-test",
+  "author": "Pavel Tupitsyn <ptupitsyn@apache.org>",
+  "license": "MIT"
+}
